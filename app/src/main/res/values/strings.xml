@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SearchViewDemo</string>
+    <string name="hint_search">Searching Your City</string>
+    <string name="search_description">City, Cities</string>
+    <string name="menu_1">option_1</string>
+    <string name="menu_2">option_2</string>
+    <string name="menu_search">Search</string>
+</resources>
